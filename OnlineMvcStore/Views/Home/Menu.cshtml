@@ -1,0 +1,19 @@
+﻿@{
+    var db = new OnlineMvcStore.Models.OnlineMvcStoreDb();
+    var categories = db.Categories.ToList();
+    }
+
+
+
+
+<nav>
+    <ul class= "sf-menu sf-vertical sf-js-enabled sf-arrows">
+        @foreach (var item in categories)
+        {
+            <li>
+                @Html.ActionLink(item.Name, item.Name, "Category")
+            </li>
+        }    
+    
+    </ul>
+</nav>

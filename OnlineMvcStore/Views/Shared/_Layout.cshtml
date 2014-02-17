@@ -4,6 +4,12 @@
     <meta charset="utf-8" />
     <title>@ViewBag.Title - My ASP.NET MVC Application</title>
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    
+    <link rel="stylesheet" media="screen" href="~/Content/superfish.css">
+    <link rel="stylesheet" media="screen" href="~/Content/superfish-vertical.css">
+    <script href ="~/Scripts/SideMenuSuperFish.js"></script>
+
     <meta name="viewport" content="width=device-width" />
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
@@ -30,6 +36,7 @@
                         </ul>
                     </nav>
     <div id="body">
+        @RenderSection("sideMenu",required:false)
         @RenderSection("featured", required: false)
         <section class="content-wrapper main-content clear-fix">
                 @RenderBody()
