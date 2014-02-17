@@ -1,0 +1,162 @@
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\OnlineMvcStore.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\OnlineMvcStore.pdb
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\Antlr3.Runtime.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.AspNet.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.Core.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\EntityFramework.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\Newtonsoft.Json.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.Formatting.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.WebRequest.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Helpers.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.WebHost.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Mvc.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Optimization.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Razor.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Razor.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\WebGrease.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.Data.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.WebData.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\EntityFramework.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\Newtonsoft.Json.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.Formatting.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.WebRequest.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Helpers.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.WebHost.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Mvc.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Razor.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Razor.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.Data.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.WebData.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.AspNet.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.Core.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.dll
+c:\users\james\documents\visual studio 2010\Projects\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.pdb
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\OnlineMvcStore.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\OnlineMvcStore.pdb
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\Antlr3.Runtime.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.Core.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\EntityFramework.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\Newtonsoft.Json.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.Formatting.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.WebRequest.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Helpers.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.WebHost.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Mvc.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Optimization.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Razor.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\WebGrease.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.Data.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.WebData.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\EntityFramework.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\Newtonsoft.Json.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.Formatting.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.WebRequest.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Helpers.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.WebHost.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Mvc.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Razor.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.Data.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.WebData.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.Core.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.dll
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.pdb
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.Migrations.InitialCreate.resources
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\usalcj01\home\CurrentProjects\OnlineMvcStore\OnlineMvcStore\obj\Debug\GenerateResource.write.1.tlog
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\OnlineMvcStore.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\OnlineMvcStore.pdb
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\Antlr3.Runtime.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.AspNet.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.Core.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\EntityFramework.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.Infrastructure.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\Newtonsoft.Json.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.Formatting.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.WebRequest.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Helpers.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.WebHost.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Mvc.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Optimization.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Razor.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Deployment.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Razor.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\WebGrease.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.Data.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.WebData.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\EntityFramework.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\Newtonsoft.Json.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.Formatting.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Net.Http.WebRequest.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Helpers.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Http.WebHost.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Mvc.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.Razor.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Deployment.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\System.Web.WebPages.Razor.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.Data.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\WebMatrix.WebData.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.AspNet.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.Core.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OAuth.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.csprojResolveAssemblyReference.cache
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.dll
+D:\james\DevProjects\ASP_NET\OnlineMvcStore\OnlineMvcStore\obj\Debug\OnlineMvcStore.pdb
