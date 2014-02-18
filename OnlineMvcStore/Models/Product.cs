@@ -17,9 +17,11 @@ namespace OnlineMvcStore.Models
     public int QtyOnHand { get; set; }
     [Display(Name = "Unit Price")]
     public decimal? Price { get; set; }
-    public virtual Category Category { get; set; }
+    public virtual Category Category { get; set;
+    }
     [Required]
     public virtual long CategoryId { get; set; }
+    public virtual long ManufacturerId { get; set; }
     
     
   }

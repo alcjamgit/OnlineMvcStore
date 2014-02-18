@@ -1,0 +1,21 @@
+﻿body
+{
+    color:Yellow;
+    width:750px;
+    border-width: 1px;
+    border-color: Blue;
+}
+header
+{
+    position:relative;
+    border-width: 1px;
+    border-color: Blue;
+}
+
+.content-wrapper 
+{
+    position:relative;
+    border-width: 1px;
+    border-color: Blue;
+    background-color: Blue;     
+} 
